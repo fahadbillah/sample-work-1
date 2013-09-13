@@ -1,0 +1,16 @@
+{
+  "title": "whutupp",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "ooo",
+      "id": 2
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#22AAE0"
+    }
+  }
+}
